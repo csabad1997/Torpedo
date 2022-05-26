@@ -1,0 +1,14 @@
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\bin\Debug\netcoreapp3.1\DataContract.exe
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\bin\Debug\netcoreapp3.1\DataContract.deps.json
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\bin\Debug\netcoreapp3.1\DataContract.runtimeconfig.json
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\bin\Debug\netcoreapp3.1\DataContract.runtimeconfig.dev.json
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\bin\Debug\netcoreapp3.1\DataContract.dll
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\bin\Debug\netcoreapp3.1\DataContract.pdb
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\obj\Debug\netcoreapp3.1\DataContract.csproj.AssemblyReference.cache
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\obj\Debug\netcoreapp3.1\DataContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\obj\Debug\netcoreapp3.1\DataContract.AssemblyInfoInputs.cache
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\obj\Debug\netcoreapp3.1\DataContract.AssemblyInfo.cs
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\obj\Debug\netcoreapp3.1\DataContract.csproj.CoreCompileInputs.cache
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\obj\Debug\netcoreapp3.1\DataContract.dll
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\obj\Debug\netcoreapp3.1\DataContract.pdb
+C:\Users\Csaba Dániel\Documents\Tananyagok\SzoftFejlC#\Torpedo\DataContract\obj\Debug\netcoreapp3.1\DataContract.genruntimeconfig.cache
