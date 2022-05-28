@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj",
+      "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj",
       "projectName": "DataContract",
-      "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj",
+      "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj",
       "packagesPath": "C:\\Users\\Csaba Dániel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\obj\\",
+      "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Csaba Dániel\\AppData\\Roaming\\NuGet\\NuGet.Config",

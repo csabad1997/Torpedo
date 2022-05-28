@@ -5376,11 +5376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "projectName": "BusinessLogicLayer",
-      "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\Csaba Dániel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\BusinessLogicLayer\\obj\\",
+      "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Csaba Dániel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5397,14 +5397,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj": {
-              "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj"
+            "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj": {
+              "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj"
             },
-            "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\SocketService\\SocketService.csproj": {
-              "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\SocketService\\SocketService.csproj"
+            "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\SocketService\\SocketService.csproj": {
+              "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\SocketService\\SocketService.csproj"
             }
           }
         }

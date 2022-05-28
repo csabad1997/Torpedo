@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6umc2aRkijvwDesfHSFqbFCyUWAdIJi//IYg1CCxDHowvSk+cxPgzbgDDiCtY6XaWhZSDU1evK1DZjDtgKDEyw==",
+  "dgSpecHash": "6eHwNUwoELBR2YtADONoAt7EkwelnB+uSEfRHKH+zOutIhjVt1pPn7zJJBII8yp/2I/JiQvJCFKhmN2e5so1VQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Csaba Dániel\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Csaba Dániel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

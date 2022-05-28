@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2kNN6ljll7H7Ehs5U7MhA7CI+IHsnb2j705UUatJGDpJwOhIApqV330+o1dUkl5avHTtCssoZxApV+uytuqYCQ==",
+  "dgSpecHash": "H1H5Xc5xLIYXPc7baWFk1gsKqWusgiC2c/azTUyHXcFkCxMTRKv7F4CZXs+uxCB3jI4rDTqjrmHEIWaFhk3VVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\Torpedo\\Torpedo.csproj",
+  "projectFilePath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\Torpedo\\Torpedo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Csaba Dániel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Csaba Dániel\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

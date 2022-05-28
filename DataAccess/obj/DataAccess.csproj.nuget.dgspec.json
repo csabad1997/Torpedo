@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Csaba Dániel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Csaba Dániel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj": {
-                "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj"
+              "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj": {
+                "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj"
               }
             }
           }
@@ -96,14 +96,14 @@
         }
       }
     },
-    "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj": {
+    "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj",
+        "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj",
         "projectName": "DataContract",
-        "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\DataContract.csproj",
+        "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj",
         "packagesPath": "C:\\Users\\Csaba Dániel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\DataContract\\obj\\",
+        "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Csaba Dániel\\AppData\\Roaming\\NuGet\\NuGet.Config",

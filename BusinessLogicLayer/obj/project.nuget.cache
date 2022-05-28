@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G6BNocxXpP/+wH8L02k3SLtgdwIdn+NX2f8U53EJDmHiWO5EnSHzssqR+8oVyZvP0kxCigKspRMiJga5xRKl9A==",
+  "dgSpecHash": "uyswbZz+7JZY2xlSYWWJ+k49qZtl9efMx0CpvpxH58FsAnBZakvbQHVGzV+Uk8/6j+qZlWXcGxoSgvc3HGXp/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\Torpedo - Copy - Copy\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Csaba Dániel\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Csaba Dániel\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
