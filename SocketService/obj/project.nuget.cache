@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/07smX3Kqp1ahhrebcrD43v4Ro2TZLnh7I5tuMmx5M1KgxkJC5qqXM2y4Hp/Kg99oSpVnFZZiXqyKnwC7ata4A==",
+  "dgSpecHash": "xU8kI08f4l5TVncL+UUTt7I4Jem0JnVB3dEoWCEN7ozAYuELaJmMdVOjiwWSYTM8I+yZe6BIKlZXRqalL3OXQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\SocketService\\SocketService.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\TorpedoProject\\Torpedo\\SocketService\\SocketService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Csaba Dániel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
