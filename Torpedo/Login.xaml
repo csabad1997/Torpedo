@@ -1,0 +1,26 @@
+﻿<Window x:Class="Torpedo.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Torpedo"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="300">
+    <Grid>
+        <StackPanel >
+            <Label>Bejelentkezés</Label>
+            <Label>Felhasználónév</Label>
+            <Label Visibility="Collapsed" Name="txtUsernameValidation" FontSize="8" Background="White" Foreground="Red" VerticalAlignment="Stretch" Padding="2,5,5,2">Felhasználónév megadása kötelező!</Label>
+            <TextBox Name="txtUsername"/>
+            <Label>Jelszó</Label>
+            <Label Visibility="Collapsed" Name="txtPasswordValidation" FontSize="8" Background="White" Foreground="Red" Padding="2,5,5,2">Jelszó megadása kötelező!</Label>
+            <TextBox Name="txtPassword"/>
+            <Label Visibility="Collapsed" Name="btnLoginValidation" FontSize="8" Background="White" Foreground="Red" Padding="5,5,5,5" HorizontalContentAlignment="Center">Sikertelen bejelentkezés!</Label>
+            <Label Visibility="Collapsed" Name="btnRegisterValidation" FontSize="8" Background="White" Foreground="Red" Padding="5,5,5,5" HorizontalContentAlignment="Center">Sikertelen regisztrálás!</Label>
+            <Button Content="Bejelentkezés" Name="btnLogin" Click="btnLogin_Click" Width="100" Margin="0,5,0,5"/>
+            <Button Content="Regisztráció" Name="btnRegistration" Click="btnRegistration_Click" Width="100"/>
+            <Button Content="Regisztálás" Visibility="Hidden" Name="btnRegister" Click="btnRegister_Click" Width="100" Margin="0,5,0,5"/>
+            <Button Content="Vissza" Visibility="Hidden" Name="btnBack" Click="btnBack_Click" Width="100"/>
+        </StackPanel>
+    </Grid>
+</Window>
