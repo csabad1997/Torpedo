@@ -5391,19 +5391,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Csaba Dániel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\TorpedoProject\\Torpedo\\Torpedo\\Torpedo.csproj",
+      "projectUniqueName": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\Torpedo\\Torpedo.csproj",
       "projectName": "Torpedo",
-      "projectPath": "C:\\Users\\User\\Desktop\\TorpedoProject\\Torpedo\\Torpedo\\Torpedo.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\TorpedoProject\\Torpedo\\Torpedo\\obj\\",
+      "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\Torpedo\\Torpedo.csproj",
+      "packagesPath": "C:\\Users\\Csaba Dániel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\Torpedo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Csaba Dániel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5417,11 +5417,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\TorpedoProject\\Torpedo\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\TorpedoProject\\Torpedo\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+            "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
             },
-            "C:\\Users\\User\\Desktop\\TorpedoProject\\Torpedo\\DataContract\\DataContract.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\TorpedoProject\\Torpedo\\DataContract\\DataContract.csproj"
+            "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj": {
+              "projectPath": "C:\\Users\\Csaba Dániel\\Documents\\Tananyagok\\SzoftFejlC#\\git\\Torpedo\\DataContract\\DataContract.csproj"
             }
           }
         }
@@ -5459,7 +5459,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
