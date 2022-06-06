@@ -5,8 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Torpedo"
         mc:Ignorable="d"
-        Title="Game" Height="450" Width="800">
+        Title="Game" Height="889" Width="471"
+        MouseMove="Window_MouseMove">
     <Grid>
-        
+        <StackPanel Margin="0,0,0,0">
+            <StackPanel Orientation="Horizontal">
+                <Label Name="lblPlayerName" Width="200"></Label>
+                <Label Name="lblOpponentName" Width="200"></Label>
+
+            </StackPanel>
+            <StackPanel Name="opponentGroup" Visibility="Collapsed">
+                <Label Name="lblUserTurn" Content=""/>
+                <Label Content="Ellenfél táblája" HorizontalAlignment="Center" FontSize="30"/>
+                <Image Name="boardOpponent" Width="311" Height="311" MouseEnter="boardOpponent_MouseEnter" MouseLeave="boardOpponent_MouseLeave" MouseLeftButtonUp="boardOpponent_MouseLeftButtonUp"/>
+            </StackPanel>
+            <StackPanel Name="playerGroup">
+                <Label Content="Játékos táblája" HorizontalAlignment="Center" FontSize="30"/>
+                <Image Name="boardPlayer" Width="311" Height="311" MouseEnter="boardPlayer_MouseEnter" MouseLeave="boardPlayer_MouseLeave" MouseLeftButtonUp="boardPlayer_MouseLeftButtonUp"/>
+            </StackPanel>
+            <StackPanel Width="170" Name="preparationGroup">
+                <ListBox x:Name="listShips" SelectionChanged="listShips_SelectionChanged"></ListBox>
+                <Button Name="btnRotateShip" Content="Forgat" Click="btnRotateShip_Click" IsEnabled="false"/>
+                <Button Name="btnPlayerReady" Content="Ready" Width="100" FontSize="20" Click="btnPlayerReady_Click" IsEnabled="false"></Button>
+                <Label Name="lblOpponentReady" Visibility="Collapsed" Content="Ellenfél elkészült" FontSize="20"></Label>
+                <Label Name="lblOpponentNotReady" Content="Ellenfél készülődik" FontSize="20"></Label>
+                <Label Name="lblPlayerNotReady" Content="Készülődök" FontSize="20"></Label>
+                <Label Name="lblPlayerReady" Visibility="Collapsed" Content="Elkészültem" FontSize="20"></Label>
+            </StackPanel>
+        </StackPanel>
     </Grid>
 </Window>
