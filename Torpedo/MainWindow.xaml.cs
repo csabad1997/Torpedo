@@ -22,8 +22,6 @@ namespace Torpedo
         public MainWindow()
         {
             InitializeComponent();
-            //Game game = new Game();
-            //game.Show();
             if (GameFlowDirector.GameFlowStep == GameFlowStepEnum.Login || GameFlowDirector.User == null)
             {
                 Login();
