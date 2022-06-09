@@ -412,6 +412,11 @@ namespace Torpedo
 
         protected override void OnClosing(CancelEventArgs e)
         {
+            GameFlowDirector.EnemyGameBoard = null;
+            GameFlowDirector.GameBoard = null;
+            GameFlowDirector.IsAiOpponent = false;
+            GameFlowDirector.WinnerName = "";
+            GameFlowDirector.Opponent = null;
             if (!GameFlowDirector.IsServer)
             {
                 using (ISocketBusinessContext context = new BusinessLogicContext(GameFlowDirector.IsServer))
