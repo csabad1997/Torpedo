@@ -41,8 +41,8 @@ namespace BusinessLogicLayer
                                     //g.FillRectangle(bgBrush, (i * 30) + 1, (j * 30) + 1, 30, 30);
                                     break;
                                 case TableCellSateEnum.SHIP:
-                                    //if(!isOpponentTable)
-                                    g.FillRectangle(shipBrush, (i * 31) + 1, (j * 31) + 1, 30, 30);
+                                    if(!isOpponentTable)
+                                        g.FillRectangle(shipBrush, (i * 31) + 1, (j * 31) + 1, 30, 30);
                                     break;
                                 case TableCellSateEnum.MISS:
                                     g.FillRectangle(whiteBrush, (i * 31) + 1, (j * 31) + 1, 30, 30);
