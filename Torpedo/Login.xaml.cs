@@ -110,7 +110,15 @@ namespace Torpedo
 
         private void btnBack_Click(object sender, RoutedEventArgs e)
         {
-
+            btnLoginValidation.Visibility = Visibility.Visible;
+            txtUsernameValidation.Visibility = Visibility.Visible;
+            txtPasswordValidation.Visibility = Visibility.Visible;
+            txtUsername.Text = "";
+            txtPassword.Text = "";
+            btnLogin.Visibility = Visibility.Visible;
+            btnRegistration.Visibility = Visibility.Visible;
+            btnRegister.Visibility = Visibility.Collapsed;
+            btnBack.Visibility = Visibility.Collapsed;
         }
         protected override void OnClosed(EventArgs e)
         {
